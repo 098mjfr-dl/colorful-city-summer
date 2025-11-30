@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: c4a725a3772a73442ab0a81e726ffd1a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortionTexture:
+        m_Texture: {fileID: 2800000, guid: 52a8c15ce06ef3c46a6415a9bde5db09, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterTexture:
+        m_Texture: {fileID: 2800000, guid: 7c5d073dfb388ab438bc0e0f5a9a8276, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistortionIntensity: 0.254
+    - _DistortionTiling: 40
+    - _DstBlend: 0
+    - _Float0: 9.16
+    - _Float1: 0.07
+    - _FresnelIntenity: 0.44
+    - _FresnelIntensity: 1.23
+    - _FresnelPower: 3.61
+    - _Gloss: 0.721
+    - _Glossiness: 0.5
+    - _MaxWarp: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseTiling: 0.09
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Roughness: 0.42
+    - _SrcBlend: 1
+    - _Tile: 0.13
+    - _Tiling: 0.07
+    - _UVSec: 0
+    - _WarpIntenisty: 0.11
+    - _WaterTiling: 30
+    - _WavesSpeed: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    - _distort: 0
+    - _distorta: 1
+    - _distortb: 0
+    - _fresnelScale: 5.89
+    - _height: 1
+    - _heightmax: 0
+    - _heightmin: 0
+    - _node_7761: 1
+    - _node_9131: 0.92
+    - _panner: 0
+    - _pannerB: 0
+    - _sin: 1
+    - _tile: 0.12
+    - _waterDepth: 0.48
+    - _waterdepth: 0.82
+    m_Colors:
+    - _Color: {r: 0.03239739, g: 0.3937953, b: 0.03887227, a: 1}
+    - _DistortionSpeed: {r: -0.03, g: 0.22, b: 0, a: 0}
+    - _EmissionColor: {r: 0.1676038, g: 0.32625875, b: 0.36764705, a: 1}
+    - _FresnelColor: {r: 0.057671774, g: 0.1321121, b: 0.1509434, a: 0}
+    - _NoiseTile: {r: 1, g: 1, b: 0, a: 0}
+    - _WaterColor: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 0}
+    - _WaterColorVariation: {r: 0.2236159, g: 0.46295327, b: 0.64705884, a: 1}
+    - _WaterSpeed: {r: 0.02, g: 0.01, b: 0, a: 0}
+    - _WaterTextureTile: {r: 0.02, g: 0.01, b: 0, a: 0}
+    - _WaterTile: {r: 30, g: 30, b: 0, a: 0}
+    - _tint: {r: 0.4376081, g: 0.69299674, b: 0.83823526, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
