@@ -20,7 +20,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -41,11 +41,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: bf47181374b5df648affa320423d206b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 90e77c6c2221ed547a202360a644e451, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c2b5d9561b4aeee408d8b1545dece12f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2a1054e5410cf1c48b003f1262b0c18a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -60,7 +60,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
+    m_Ints: {}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -79,7 +79,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.39924127, g: 0.32491958, b: 0.3470138, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1

@@ -23,7 +23,12 @@ Avatar:
           m_AxesId: -1
         - m_ParentId: 0
           m_AxesId: -1
-        m_ID: 00000000c55be09f536be7e8e93aee714178a209
+        m_ID:
+        - 0
+        - 2682280901
+        - 3907480403
+        - 1911438057
+        - 161642561
         m_AxesArray: []
     m_AvatarSkeletonPose:
       data:
@@ -61,7 +66,12 @@ Avatar:
         - t: {x: 3.3735034E-07, y: -2.3371062E-17, z: -0.02360505}
           q: {x: 8.742276E-08, y: -1.5099582E-07, z: -8.742276E-08, w: 1}
           s: {x: 1, y: 1, z: 1}
-    m_SkeletonNameIDArray: 00000000c55be09f536be7e8e93aee714178a209
+    m_SkeletonNameIDArray:
+    - 0
+    - 2682280901
+    - 3907480403
+    - 1911438057
+    - 161642561
     m_Human:
       data:
         serializedVersion: 2
@@ -72,18 +82,73 @@ Avatar:
         m_Skeleton:
           data:
             m_Node: []
-            m_ID:
+            m_ID: []
             m_AxesArray: []
         m_SkeletonPose:
           data:
             m_X: []
         m_LeftHand:
           data:
-            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+            m_HandBoneIndex:
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
         m_RightHand:
           data:
-            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+            m_HandBoneIndex:
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+        m_HumanBoneIndex:
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
         m_HumanBoneMass:
         - 0.14545456
         - 0.12121213
@@ -121,8 +186,8 @@ Avatar:
         m_HasLeftHand: 0
         m_HasRightHand: 0
         m_HasTDoF: 0
-    m_HumanSkeletonIndexArray:
-    m_HumanSkeletonReverseIndexArray:
+    m_HumanSkeletonIndexArray: []
+    m_HumanSkeletonReverseIndexArray: []
     m_RootMotionBoneIndex: -1
     m_RootMotionBoneX:
       t: {x: 0, y: 0, z: 0}
@@ -131,18 +196,18 @@ Avatar:
     m_RootMotionSkeleton:
       data:
         m_Node: []
-        m_ID:
+        m_ID: []
         m_AxesArray: []
     m_RootMotionSkeletonPose:
       data:
         m_X: []
-    m_RootMotionSkeletonIndexArray:
+    m_RootMotionSkeletonIndexArray: []
   m_TOS:
-    161642561: furniture_drawer 1
-    1911438057: furniture_drawer1
-    3907480403: furniture_drawer2
-    2682280901: furniture_drawer3
-    0:
+  - 161642561: furniture_drawer 1
+  - 1911438057: furniture_drawer1
+  - 3907480403: furniture_drawer2
+  - 2682280901: furniture_drawer3
+  - 0:
   m_HumanDescription:
     serializedVersion: 3
     m_Human: []

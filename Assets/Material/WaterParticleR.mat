@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: WaterParticleR
-  m_Shader: {fileID: 4800000, guid: 36a8275ee48eb8d4697f4e0caa5c6af5, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7b5609f8a96022d4dbf17283b37cc8ab, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,19 +25,19 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-      _ParticleTextureA:
-        m_Texture: {fileID: 2800000, guid: f40f302ce3e67654999fd024c5ee4eb6, type: 3}
+    - _ParticleTextureA:
+        m_Texture: {fileID: 2800000, guid: 24576c41276c1344a8df532cea30a210, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: {}
     m_Floats:
-      PixelSnap: 0
-      _A: 0
-      _B: 0
-      _Cutoff: 0.5
-      _G: 0
-      _Opacity: 1
-      _OpacityClip: 1
-      _R: 1
+    - PixelSnap: 0
+    - _A: 0
+    - _B: 0
+    - _Cutoff: 0.5
+    - _G: 0
+    - _Opacity: 1
+    - _OpacityClip: 1
+    - _R: 1
     m_Colors: {}
   m_BuildTextureStacks: []

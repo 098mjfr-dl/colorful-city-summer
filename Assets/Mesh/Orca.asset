@@ -169,7 +169,16 @@ Mesh:
     e31: 0
     e32: 0
     e33: 1
-  m_BoneNameHashes: 7824b8750a78c1dc915f45fc88a585c7310194e099b1e826865112da3b2b4db958164243
+  m_BoneNameHashes:
+  - 1975002232
+  - 3703666698
+  - 4232404881
+  - 3347424648
+  - 3767796017
+  - 652784025
+  - 3658633606
+  - 3108842299
+  - 1128404568
   m_RootBoneNameHash: 1975002232
   m_BonesAABB:
   - m_Min: {x: -0.0064829993, y: -0.0063408166, z: -0.015732786}
@@ -191,7 +200,7 @@ Mesh:
   - m_Min: {x: -0.0022177063, y: -0.009113438, z: -0.0097812135}
     m_Max: {x: 0.013940565, y: 0.010828959, z: 0.0049398933}
   m_VariableBoneCountWeights:
-    m_Data:
+    m_Data: []
   m_MeshCompression: 0
   m_IsReadable: 0
   m_KeepVertices: 0

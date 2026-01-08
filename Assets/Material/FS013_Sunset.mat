@@ -20,15 +20,15 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c1f4a0a6836e7464084cff1831dcf7b0, type: 3}
+        m_Texture: {fileID: 2800000, guid: b92430f8091dc7d44b2cfb05f953a9e2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
+    m_Ints: {}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -53,8 +53,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.37698132, g: 0.048732985, b: 0.83369243, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1

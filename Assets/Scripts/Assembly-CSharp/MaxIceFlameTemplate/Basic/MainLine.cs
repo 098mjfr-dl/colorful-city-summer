@@ -168,7 +168,7 @@ namespace MaxIceFlameTemplate.Basic
 
 		public void GameOver(bool win, bool stop)
 		{
-			/*if (!win)
+			if (!win)
 			{
 				gameEvents.OnGameOver.Invoke();
 				Over = true;
@@ -232,7 +232,6 @@ namespace MaxIceFlameTemplate.Basic
 			}
 			Win = true;
 			Is_Stop = true;
-			*/
 		}
 
 		private void Update()
