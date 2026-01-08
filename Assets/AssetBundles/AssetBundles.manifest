@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4235945756
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene.xp3
+      Dependencies: {}

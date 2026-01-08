@@ -7,7 +7,7 @@ Flare:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Subtle1
-  m_FlareTexture: {fileID: 2800000, guid: 7eee1c68ecbeeeb4eaa8c9f762d5d581, type: 3}
+  m_FlareTexture: {fileID: 2800000, guid: c0152f06516f30b4b9a3384c65688f08, type: 3}
   m_TextureLayout: 3
   m_Elements:
   - m_ImageIndex: 0

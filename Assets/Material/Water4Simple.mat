@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Water4Simple
-  m_Shader: {fileID: 4800000, guid: a1c0c779129097841a7c0581f879a937, type: 3}
+  m_Shader: {fileID: 4800000, guid: 82233850b738ac64d967c3455a84f702, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -19,12 +19,12 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: e889c998e1b40d34796b82b95200bf14, type: 3}
+        m_Texture: {fileID: 2800000, guid: b18e8486547ad2441b7f6fbb71d3f6a0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -35,7 +35,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
+    m_Ints: {}
     m_Floats:
     - _FresnelScale: 0.3897143
     - _GerstnerIntensity: -0.54
@@ -48,7 +48,7 @@ Material:
     - _BaseColor: {r: 0, g: 0, b: 0, a: 0.5058824}
     - _BumpDirection: {r: 1, g: 30, b: 20, a: -20}
     - _BumpTiling: {r: 0.04, g: 0.04, b: 0.04, a: 0.08}
-    - _Color: {r: 0.2929503, g: 0.53241384, b: 0.7732575, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DepthColor: {r: 0.29811764, g: 0.36611718, b: 0.39552242, a: 0.34509805}
     - _DistortParams: {r: 1.028571, g: 0.2018722, b: 2.766625, a: -0.41714284}
     - _Foam: {r: 0.3275862, g: 0.7471264, b: 0, a: 0}
@@ -64,4 +64,3 @@ Material:
     - _SpecularColor: {r: 0.82089555, g: 0.80581594, b: 0.7718869, a: 1}
     - _WorldLightDir: {r: -0.68849933, g: -0.17359078, b: -0.704156, a: 0}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1

@@ -30,7 +30,7 @@ AnimationClip:
       - serializedVersion: 3
         time: 2.7
         value: {x: 66.97, y: 16.16, z: 33.2}
-        inSlope: {x: 2.7716553E-06, y: 5.9634225E-10, z: 3.8956436E-08}
+        inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 1
         weightedMode: 0

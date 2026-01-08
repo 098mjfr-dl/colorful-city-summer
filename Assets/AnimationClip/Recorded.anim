@@ -22,7 +22,7 @@ AnimationClip:
         time: 79.13333
         value: {x: 0.2000122, y: 0, z: 0.2999878}
         inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 12.430022, y: -Infinity, z: 12.474042}
+        outSlope: {x: 12.430022, y: 0, z: 12.474042}
         tangentMode: 1
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}

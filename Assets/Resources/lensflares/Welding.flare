@@ -7,7 +7,7 @@ Flare:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Welding
-  m_FlareTexture: {fileID: 2800000, guid: 63a377c1adbd2ab4292440f9200ad288, type: 3}
+  m_FlareTexture: {fileID: 2800000, guid: 7a21200fbf306c846b8cf4b3b56d9580, type: 3}
   m_TextureLayout: 0
   m_Elements:
   - m_ImageIndex: 0

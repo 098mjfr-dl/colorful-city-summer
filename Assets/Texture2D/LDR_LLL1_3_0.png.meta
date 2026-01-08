@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 7f7112e695eca3741968e88518daa601
-timeCreated: 1746921033
+guid: ce58755dbc9eca54b981240fc3cccd0d
+timeCreated: 1767894260
 licenseType: Free
 TextureImporter:
-  serializedVersion: 13
+  serializedVersion: 12
   internalIDToNameTable: []
   externalObjects: {}
   mipmaps:
@@ -91,7 +91,7 @@ TextureImporter:
     spriteID:
     internalID: 0
     vertices: []
-    indices:
+    indices: []
     edges: []
     weights: []
     secondaryTextures: []

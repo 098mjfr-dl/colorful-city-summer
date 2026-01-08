@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 56bab56e978d62d34dfbbd4b366fc804
-timeCreated: 1746921043
+timeCreated: 1767894262
 licenseType: Free
 PluginImporter:
   serializedVersion: 2
@@ -23,7 +23,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        DefaultValueInitialized: true
+      - DefaultValueInitialized: true
   output:
     dllType: 0
     scriptingRuntimeVersion: 0
